@@ -9,3 +9,4 @@ SET total_sales = price * quantity;
 -- Checked the result of the query
 SELECT * FROM transactions_dim
 LIMIT 10;
+ 

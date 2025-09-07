@@ -62,6 +62,7 @@ Shoes: Port-Harcourt moves the most pairs (34) but at the lowest ASP (₦94.85),
     | 6    | Women’s skirt | 0.99  | 1.02     | 0.96     | 2.97     |
     | 7    | Men’s t-shirt | 0.57  | 0.59     | 0.60     | 1.76     |
     | 8    | Belt          | 0.34  | 0.29     | 0.30     | 0.93     |
+
     *Product Revenue (in thousand) by each city*
 
 3. 

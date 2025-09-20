@@ -104,7 +104,7 @@ Below is every abbreviation that appeared in the analysis, spelled out in full a
   Total revenue ÷ number of units sold for a given product (or basket of products).
 
 - **PH** – Port-Harcourt  
-  Short name for the city whose data set is stored in “Top_Sale_PH.csv”.
+  Short name for the city.
 
 - **SKU** – Stock-Keeping Unit  
   The smallest sellable item in inventory; here used loosely to mean “product line” (e.g., “Men’s jacket” is treated as one SKU).

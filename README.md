@@ -91,7 +91,7 @@ Low transaction volume of only 750 orders, indicating limited customer traffic; 
 
  - Lagos consumers are experiencing the highest shoe prices in the market. To capitalize on this opportunity, a “Premium Step-Up” loyalty program is proposed, which will provide exclusive early access to product drops and complimentary shoe-care kits. Targeting style-driven professionals in the city, the program aims to encourage repeat engagement and increase overall transaction values. 
 
- - Port Harcourt customers buy more jackets but struggle with men's jeans sales. To boost jeans sales, we will launch a “Jeans & Jacket Bonanza,” where customers can buy a jacket for ₦120 and add jeans for ₦45, a ₦6 discount. This will leverage jacket popularity to increase jean sales while maintaining jacket margins.
+ - Port Harcourt customers buy more jackets but struggle with men's jeans sales. To boost jeans sales, we will launch a “Denims & Jacket Bonanza,” where customers can buy a jacket for ₦120 and add jeans for ₦45, a ₦6 discount. This will leverage jacket popularity to increase jean sales while maintaining jacket margins.
 
 - Gucci is a billboard not a profit engine—replace one facing shelf with a small “premium sport” capsule of North Face heat-map jackets where the ₦120 k ASP can turn the same square metre into 12× more cash per unit and still satisfy luxury footfall.
 
@@ -112,4 +112,3 @@ Below is every abbreviation that appeared in the analysis, spelled out in full a
 - **∑ 3-City** – Sum across the three cities  
   The aggregate (total) value when Abuja, Lagos and Port-Harcourt figures are added together.
 
-No other abbreviations or acronyms were used in the report.
